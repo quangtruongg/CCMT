@@ -28,7 +28,7 @@ public class server {
 	private ServerSocket s;
 	private Socket socket;
 	static ArrayList<Handler> clients = new ArrayList<Handler>();
-	private String dataFile = "C:\\Users\\quang\\NetBeansProjects82\\Chat_App\\data\\accounts.txt";
+	private String dataFile = "C:\\Users\\quang\\NetBeansProjects82\\ChatApp\\data\\accounts.txt";
 	
 	/**
 	 * Tải lên danh sách tài khoản từ file
